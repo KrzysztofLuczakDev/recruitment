@@ -7,7 +7,6 @@
 button{
   position: relative;
   overflow: hidden;
-  transition: background-color 0.3s;
   box-shadow: 0px 4px 8px 0px #00000008;
   background: linear-gradient(90deg, #B06642 0%, #F4B17E 100%);
   outline: none;
